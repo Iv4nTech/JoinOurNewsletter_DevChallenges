@@ -1,0 +1,116 @@
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    line-height: 1,3em;
+    text-align: center;
+    margin: 5vw;
+    vertical-align: middle;
+    margin-top: 10%;
+    background-color:rgb(253, 253, 253);
+
+  }
+
+img {
+
+    height: 30px;
+    
+}
+
+h1 {
+
+    font-size: 40px;
+  
+}
+
+
+
+p {
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.formulario {
+    
+    background-color: white;
+    box-shadow: 5px 5px 10px rgba(119, 119, 119, 0.329);
+    border-radius: 10px;
+    text-align: center;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding-bottom: 1px;
+   margin-top: 50px;
+   
+  
+}
+
+button {
+    max-width: 470px;
+  width: 50%;
+  height: 55px;
+  border: 0;
+  border-radius: 10px;
+  background-color: #3464e4;
+  color: aliceblue;
+  margin-top: 20px;
+  width: 55vw;
+  transition: 0.5s;
+
+
+}
+
+button:hover {
+max-width: 470px;
+  width: 50%;
+  height: 55px;
+  border: 0;
+  border-radius: 10px;
+  background-color: #4979ff;
+  color: aliceblue;
+  margin-top: 20px;
+  width: 55vw;
+  transition: 0.5s;
+
+}
+
+input {
+    max-width: 470px;
+    width: 50%;
+    height: 55px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+    border: 2px solid rgb(230, 230, 230);
+    margin-top: 13px;
+    width: 55vw;
+   
+
+}
+
+input:focus {
+    outline: none; 
+}
+
+.aviso {
+    color: #a8a8a8;
+    font-size: 9px;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 13px;
+  
+
+}
+
+.author {
+    margin-top: 100px;
+    font-size: 10px;
+}
+
+
