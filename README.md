@@ -1,3 +1,3 @@
 Preview:
 
-<img src="/images/preview_html">
+<img src="/images/preview_html.png">
